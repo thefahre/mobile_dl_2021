@@ -42,7 +42,6 @@ public class DaftarKataAdapter extends
             Toast.makeText(v.getContext(),
                     element +" dipilih",
                     Toast.LENGTH_LONG).show();
-
         }
     }
 
